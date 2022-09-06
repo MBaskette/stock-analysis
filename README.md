@@ -20,3 +20,11 @@ One of the major changes we made to the code was the use of several new arrays t
     Dim tickerEndingPrices(12) As Single
 ```
 And as you can see it worked quite well.
+![image](https://user-images.githubusercontent.com/111661058/188524008-587bd094-fa2b-4f97-9b52-2eb0de1a561e.png)
+
+## Summary
+### Pros and Cons of Refactoring Code
+Refactoring code is time consuming to say the least. You may even find that there is simply not enough time to complete the process. You may also end up creating new errors that you now ahve to debug, causing you even more time and money. But there are many advantages to refactoring. It can speed up your processing time immensly. It can make the new code easier to understand for future coders. And it can even make the software run better for the end user.
+
+### Pros and Cons Experienced Refactoring Stock Analysis
+**TIME!** It took a great deal of time to finish refactoring the code but that was the only disadvantage. I think the advantages of an 82% drop in speed was well worth the time. 
