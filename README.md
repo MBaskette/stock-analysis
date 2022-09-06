@@ -8,4 +8,5 @@ Steve's parents would like to invest in green energy companies and have decided 
 Once that is complete we will need to refactor our code to make it faster so Steve will know how long the process will take depending on the amount of data he decides to use in the future.
 
 ## Results
-After running our inital code we found that DAQO was bot the best stock for Steve's parnets.
+After running our inital code we found that DAQO was bot the best stock for Steve's parents.
+![image](https://user-images.githubusercontent.com/111661058/188523323-5378c8e1-0943-4675-bd45-053e6da449ec.png)
